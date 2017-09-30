@@ -27,7 +27,6 @@
 		09C9AD291F7CCC85008E945F /* Topkk.m in Sources */ = {isa = PBXBuildFile; fileRef = 09C9AD281F7CCC85008E945F /* Topkk.m */; };
 		09C9AD2C1F7CCFE8008E945F /* word.txt in Resources */ = {isa = PBXBuildFile; fileRef = 09C9AD2B1F7CCFE7008E945F /* word.txt */; };
 		09DD4D781F7546790041EFCA /* Queue.m in Sources */ = {isa = PBXBuildFile; fileRef = 09DD4D771F7546790041EFCA /* Queue.m */; };
-		09DD4DA11F7556D60041EFCA /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 09DD4DA01F7556D60041EFCA /* main.c */; };
 		09E01E9B1F76513F005D3594 /* addTwoNumbers.m in Sources */ = {isa = PBXBuildFile; fileRef = 09E01E9A1F76513F005D3594 /* addTwoNumbers.m */; };
 		09E01E9F1F7657CD005D3594 /* mergeKSortedLists.m in Sources */ = {isa = PBXBuildFile; fileRef = 09E01E9E1F7657CD005D3594 /* mergeKSortedLists.m */; };
 		09E01EA21F766051005D3594 /* isPalindrome.m in Sources */ = {isa = PBXBuildFile; fileRef = 09E01EA11F766051005D3594 /* isPalindrome.m */; };
@@ -84,7 +83,6 @@
 		09DD4D761F7546790041EFCA /* Queue.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Queue.h; sourceTree = "<group>"; };
 		09DD4D771F7546790041EFCA /* Queue.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Queue.m; sourceTree = "<group>"; };
 		09DD4D9E1F7556D60041EFCA /* StackQueue */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = StackQueue; sourceTree = BUILT_PRODUCTS_DIR; };
-		09DD4DA01F7556D60041EFCA /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		09E01E9A1F76513F005D3594 /* addTwoNumbers.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = addTwoNumbers.m; sourceTree = "<group>"; };
 		09E01E9C1F765612005D3594 /* addTwoNumbers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = addTwoNumbers.h; sourceTree = "<group>"; };
 		09E01E9D1F7657CD005D3594 /* mergeKSortedLists.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = mergeKSortedLists.h; sourceTree = "<group>"; };
@@ -180,7 +178,6 @@
 			isa = PBXGroup;
 			children = (
 				09C716891F70C10D00A3A337 /* ALG */,
-				09DD4D9F1F7556D60041EFCA /* StackQueue */,
 				09C716881F70C10D00A3A337 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -247,14 +244,6 @@
 			children = (
 			);
 			path = "栈";
-			sourceTree = "<group>";
-		};
-		09DD4D9F1F7556D60041EFCA /* StackQueue */ = {
-			isa = PBXGroup;
-			children = (
-				09DD4DA01F7556D60041EFCA /* main.c */,
-			);
-			path = StackQueue;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -422,7 +411,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				09DD4DA11F7556D60041EFCA /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -11,11 +11,15 @@
 		</dict>
 		<key>StackQueue.xcscheme</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
 		<key>queue.xcscheme</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
@@ -28,6 +32,11 @@
 			<true/>
 		</dict>
 		<key>09C716861F70C10D00A3A337</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>09DD4D9D1F7556D60041EFCA</key>
 		<dict>
 			<key>primary</key>
 			<true/>
