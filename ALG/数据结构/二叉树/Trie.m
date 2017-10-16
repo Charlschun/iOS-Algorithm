@@ -15,6 +15,7 @@
     node.count = 0;
     node.exist = false;
     memset(node->nexts , 0 , sizeof(node->nexts));    // 初始化为空指针
+
     return node;
 }
 @end

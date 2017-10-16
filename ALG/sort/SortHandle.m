@@ -12,7 +12,7 @@
 @implementation SortHandle
 
 + (void)bubbleSortWithArray:(NSMutableArray<NSNumber *> *)array{
-    for (int i = 0; i < array.count; i ++) {
+    for (int i = 0; i < array.count-1; i ++) {
         
         for (int j = 0 ; j < array.count - 1 - i ; j ++) {
             if (array[j] > array[j + 1]) {

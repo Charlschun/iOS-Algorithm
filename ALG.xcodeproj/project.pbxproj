@@ -7,11 +7,32 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0919C9F41F8DBDF900AC4DA3 /* Longest Palindromic Substring.m in Sources */ = {isa = PBXBuildFile; fileRef = 0919C9F31F8DBDF900AC4DA3 /* Longest Palindromic Substring.m */; };
+		0919C9F71F8DEB1F00AC4DA3 /* Longest Substring Without Repeating Characters.m in Sources */ = {isa = PBXBuildFile; fileRef = 0919C9F61F8DEB1F00AC4DA3 /* Longest Substring Without Repeating Characters.m */; };
+		0919C9FA1F8DFBE900AC4DA3 /* String to Integer.m in Sources */ = {isa = PBXBuildFile; fileRef = 0919C9F91F8DFBE900AC4DA3 /* String to Integer.m */; };
+		0919C9FD1F8E168200AC4DA3 /* Reverse Words in a String.m in Sources */ = {isa = PBXBuildFile; fileRef = 0919C9FC1F8E168200AC4DA3 /* Reverse Words in a String.m */; };
+		0919CA001F8E1C5400AC4DA3 /* Full Permutation.m in Sources */ = {isa = PBXBuildFile; fileRef = 0919C9FF1F8E1C5400AC4DA3 /* Full Permutation.m */; };
 		09263AE01F7B8EEC003C5911 /* Trie.m in Sources */ = {isa = PBXBuildFile; fileRef = 09263ADF1F7B8EEC003C5911 /* Trie.m */; };
+		093CD1691F946024008292A3 /* Two num.m in Sources */ = {isa = PBXBuildFile; fileRef = 093CD1681F946024008292A3 /* Two num.m */; };
+		093CD16C1F948D18008292A3 /* Roman To  Int.m in Sources */ = {isa = PBXBuildFile; fileRef = 093CD16B1F948D18008292A3 /* Roman To  Int.m */; };
+		093CD1721F9490B4008292A3 /* _3Num.m in Sources */ = {isa = PBXBuildFile; fileRef = 093CD1711F9490B4008292A3 /* _3Num.m */; };
+		093CD1751F949FEE008292A3 /* Valid Parentheses.m in Sources */ = {isa = PBXBuildFile; fileRef = 093CD1741F949FEE008292A3 /* Valid Parentheses.m */; };
+		094D87131F8B4B2C00D00860 /* DynamicProgramming.m in Sources */ = {isa = PBXBuildFile; fileRef = 094D87121F8B4B2C00D00860 /* DynamicProgramming.m */; };
+		094D87161F8B803D00D00860 /* GreedyALG.m in Sources */ = {isa = PBXBuildFile; fileRef = 094D87151F8B803D00D00860 /* GreedyALG.m */; };
+		095251341F933EC600C6989E /* TreeQuestion.m in Sources */ = {isa = PBXBuildFile; fileRef = 095251331F933EC600C6989E /* TreeQuestion.m */; };
+		0957EF3E1F9092D000616B77 /* Find Num in Yang Array.m in Sources */ = {isa = PBXBuildFile; fileRef = 0957EF3D1F9092D000616B77 /* Find Num in Yang Array.m */; };
+		0957EF411F909D4000616B77 /* Find more than half of the array number.m in Sources */ = {isa = PBXBuildFile; fileRef = 0957EF401F909D4000616B77 /* Find more than half of the array number.m */; };
+		0957EF441F90A45E00616B77 /* Kth Largest Element in an Array.m in Sources */ = {isa = PBXBuildFile; fileRef = 0957EF431F90A45E00616B77 /* Kth Largest Element in an Array.m */; };
+		0957EF471F90AC9300616B77 /* Find specific num count in Orderly array.m in Sources */ = {isa = PBXBuildFile; fileRef = 0957EF461F90AC9300616B77 /* Find specific num count in Orderly array.m */; };
+		0957EF4B1F90C59F00616B77 /* LinklistQuestion.m in Sources */ = {isa = PBXBuildFile; fileRef = 0957EF4A1F90C59F00616B77 /* LinklistQuestion.m */; };
 		095FFF521F78DDC3000F6BA0 /* BinaryTree.m in Sources */ = {isa = PBXBuildFile; fileRef = 095FFF511F78DDC3000F6BA0 /* BinaryTree.m */; };
 		09848B0F1F7A63A700C8F54E /* HightlightBinaryTree.m in Sources */ = {isa = PBXBuildFile; fileRef = 09848B0E1F7A63A700C8F54E /* HightlightBinaryTree.m */; };
 		0988CC551F73532700ED50B4 /* MergeSort.m in Sources */ = {isa = PBXBuildFile; fileRef = 0988CC541F73532700ED50B4 /* MergeSort.m */; };
 		098F56C51F7F7F6400234CFA /* Graph.m in Sources */ = {isa = PBXBuildFile; fileRef = 098F56C41F7F7F6400234CFA /* Graph.m */; };
+		0994EB391F8F32F100FDD5E5 /* Maximum Subarray.m in Sources */ = {isa = PBXBuildFile; fileRef = 0994EB381F8F32F100FDD5E5 /* Maximum Subarray.m */; };
+		0994EB3C1F8F447B00FDD5E5 /* Regular Expression Matching.m in Sources */ = {isa = PBXBuildFile; fileRef = 0994EB3B1F8F447A00FDD5E5 /* Regular Expression Matching.m */; };
+		0994EB401F8F66C000FDD5E5 /* Two sorted array Median.m in Sources */ = {isa = PBXBuildFile; fileRef = 0994EB3F1F8F66C000FDD5E5 /* Two sorted array Median.m */; };
+		0994EB431F8F6E6800FDD5E5 /* Find Minimum in Rotated Sorted Array.m in Sources */ = {isa = PBXBuildFile; fileRef = 0994EB421F8F6E6800FDD5E5 /* Find Minimum in Rotated Sorted Array.m */; };
 		09BB310E1F74E67300634517 /* LinkedList.m in Sources */ = {isa = PBXBuildFile; fileRef = 09BB310D1F74E67300634517 /* LinkedList.m */; };
 		09BB31121F7500D300634517 /* Practice.m in Sources */ = {isa = PBXBuildFile; fileRef = 09BB31111F7500D300634517 /* Practice.m */; };
 		09BB313C1F75167100634517 /* BinarySearch.m in Sources */ = {isa = PBXBuildFile; fileRef = 09BB313B1F75167100634517 /* BinarySearch.m */; };
@@ -30,6 +51,37 @@
 		09E01E9B1F76513F005D3594 /* addTwoNumbers.m in Sources */ = {isa = PBXBuildFile; fileRef = 09E01E9A1F76513F005D3594 /* addTwoNumbers.m */; };
 		09E01E9F1F7657CD005D3594 /* mergeKSortedLists.m in Sources */ = {isa = PBXBuildFile; fileRef = 09E01E9E1F7657CD005D3594 /* mergeKSortedLists.m */; };
 		09E01EA21F766051005D3594 /* isPalindrome.m in Sources */ = {isa = PBXBuildFile; fileRef = 09E01EA11F766051005D3594 /* isPalindrome.m */; };
+		09E8193E1F8C96DB005EFBB6 /* File.js in Resources */ = {isa = PBXBuildFile; fileRef = 09E8193D1F8C96DB005EFBB6 /* File.js */; };
+		09E819421F8CB9DF005EFBB6 /* block.c in Sources */ = {isa = PBXBuildFile; fileRef = 09E819401F8CB9DF005EFBB6 /* block.c */; };
+		09E819441F8CBA24005EFBB6 /* block.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 09E819431F8CBA24005EFBB6 /* block.cpp */; };
+		09E819471F8CD351005EFBB6 /* BinarySearch.m in Sources */ = {isa = PBXBuildFile; fileRef = 09BB313B1F75167100634517 /* BinarySearch.m */; };
+		09E819481F8CD351005EFBB6 /* Practice.m in Sources */ = {isa = PBXBuildFile; fileRef = 09BB31111F7500D300634517 /* Practice.m */; };
+		09E819491F8CD351005EFBB6 /* HightlightBinaryTree.m in Sources */ = {isa = PBXBuildFile; fileRef = 09848B0E1F7A63A700C8F54E /* HightlightBinaryTree.m */; };
+		09E8194A1F8CD351005EFBB6 /* Topkk.m in Sources */ = {isa = PBXBuildFile; fileRef = 09C9AD281F7CCC85008E945F /* Topkk.m */; };
+		09E8194B1F8CD351005EFBB6 /* MergeSort.m in Sources */ = {isa = PBXBuildFile; fileRef = 0988CC541F73532700ED50B4 /* MergeSort.m */; };
+		09E8194C1F8CD351005EFBB6 /* Trie.m in Sources */ = {isa = PBXBuildFile; fileRef = 09263ADF1F7B8EEC003C5911 /* Trie.m */; };
+		09E8194D1F8CD351005EFBB6 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 09C716911F70C10D00A3A337 /* ViewController.m */; };
+		09E8194E1F8CD351005EFBB6 /* DynamicProgramming.m in Sources */ = {isa = PBXBuildFile; fileRef = 094D87121F8B4B2C00D00860 /* DynamicProgramming.m */; };
+		09E8194F1F8CD351005EFBB6 /* LinkedList.m in Sources */ = {isa = PBXBuildFile; fileRef = 09BB310D1F74E67300634517 /* LinkedList.m */; };
+		09E819501F8CD351005EFBB6 /* GreedyALG.m in Sources */ = {isa = PBXBuildFile; fileRef = 094D87151F8B803D00D00860 /* GreedyALG.m */; };
+		09E819511F8CD351005EFBB6 /* block.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 09E819431F8CBA24005EFBB6 /* block.cpp */; };
+		09E819521F8CD351005EFBB6 /* Queue.m in Sources */ = {isa = PBXBuildFile; fileRef = 09DD4D771F7546790041EFCA /* Queue.m */; };
+		09E819531F8CD351005EFBB6 /* HeapSort.m in Sources */ = {isa = PBXBuildFile; fileRef = 09C63E5B1F7272D900EABCAF /* HeapSort.m */; };
+		09E819541F8CD351005EFBB6 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 09C7168E1F70C10D00A3A337 /* AppDelegate.m */; };
+		09E819551F8CD351005EFBB6 /* isPalindrome.m in Sources */ = {isa = PBXBuildFile; fileRef = 09E01EA11F766051005D3594 /* isPalindrome.m */; };
+		09E819561F8CD351005EFBB6 /* mergeKSortedLists.m in Sources */ = {isa = PBXBuildFile; fileRef = 09E01E9E1F7657CD005D3594 /* mergeKSortedLists.m */; };
+		09E819581F8CD351005EFBB6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 09C7168B1F70C10D00A3A337 /* main.m */; };
+		09E819591F8CD351005EFBB6 /* addTwoNumbers.m in Sources */ = {isa = PBXBuildFile; fileRef = 09E01E9A1F76513F005D3594 /* addTwoNumbers.m */; };
+		09E8195A1F8CD351005EFBB6 /* Graph.m in Sources */ = {isa = PBXBuildFile; fileRef = 098F56C41F7F7F6400234CFA /* Graph.m */; };
+		09E8195B1F8CD351005EFBB6 /* ShellSort.m in Sources */ = {isa = PBXBuildFile; fileRef = 09C010CA1F739CE9007BB39C /* ShellSort.m */; };
+		09E8195C1F8CD351005EFBB6 /* SortHandle.m in Sources */ = {isa = PBXBuildFile; fileRef = 09C716A31F70C16A00A3A337 /* SortHandle.m */; };
+		09E8195D1F8CD351005EFBB6 /* block.c in Sources */ = {isa = PBXBuildFile; fileRef = 09E819401F8CB9DF005EFBB6 /* block.c */; };
+		09E819601F8CD351005EFBB6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 09C716981F70C10D00A3A337 /* LaunchScreen.storyboard */; };
+		09E819611F8CD351005EFBB6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 09C716961F70C10D00A3A337 /* Assets.xcassets */; };
+		09E819621F8CD351005EFBB6 /* word.txt in Resources */ = {isa = PBXBuildFile; fileRef = 09C9AD2B1F7CCFE7008E945F /* word.txt */; };
+		09E819631F8CD351005EFBB6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 09C716931F70C10D00A3A337 /* Main.storyboard */; };
+		09E819641F8CD351005EFBB6 /* File.js in Resources */ = {isa = PBXBuildFile; fileRef = 09E8193D1F8C96DB005EFBB6 /* File.js */; };
+		09E8196A1F8CD490005EFBB6 /* BinaryTree.m in Sources */ = {isa = PBXBuildFile; fileRef = 095FFF511F78DDC3000F6BA0 /* BinaryTree.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -45,8 +97,42 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		0919C9F21F8DBDF900AC4DA3 /* Longest Palindromic Substring.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Longest Palindromic Substring.h"; sourceTree = "<group>"; };
+		0919C9F31F8DBDF900AC4DA3 /* Longest Palindromic Substring.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "Longest Palindromic Substring.m"; sourceTree = "<group>"; };
+		0919C9F51F8DEB1F00AC4DA3 /* Longest Substring Without Repeating Characters.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Longest Substring Without Repeating Characters.h"; sourceTree = "<group>"; };
+		0919C9F61F8DEB1F00AC4DA3 /* Longest Substring Without Repeating Characters.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "Longest Substring Without Repeating Characters.m"; sourceTree = "<group>"; };
+		0919C9F81F8DFBE900AC4DA3 /* String to Integer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "String to Integer.h"; sourceTree = "<group>"; };
+		0919C9F91F8DFBE900AC4DA3 /* String to Integer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "String to Integer.m"; sourceTree = "<group>"; };
+		0919C9FB1F8E168200AC4DA3 /* Reverse Words in a String.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Reverse Words in a String.h"; sourceTree = "<group>"; };
+		0919C9FC1F8E168200AC4DA3 /* Reverse Words in a String.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "Reverse Words in a String.m"; sourceTree = "<group>"; };
+		0919C9FE1F8E1C5400AC4DA3 /* Full Permutation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Full Permutation.h"; sourceTree = "<group>"; };
+		0919C9FF1F8E1C5400AC4DA3 /* Full Permutation.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "Full Permutation.m"; sourceTree = "<group>"; };
 		09263ADE1F7B8EEC003C5911 /* Trie.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Trie.h; sourceTree = "<group>"; };
 		09263ADF1F7B8EEC003C5911 /* Trie.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Trie.m; sourceTree = "<group>"; };
+		093CD1671F946024008292A3 /* Two num.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Two num.h"; sourceTree = "<group>"; };
+		093CD1681F946024008292A3 /* Two num.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "Two num.m"; sourceTree = "<group>"; };
+		093CD16A1F948D18008292A3 /* Roman To  Int.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Roman To  Int.h"; sourceTree = "<group>"; };
+		093CD16B1F948D18008292A3 /* Roman To  Int.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "Roman To  Int.m"; sourceTree = "<group>"; };
+		093CD1701F9490B4008292A3 /* _3Num.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _3Num.h; sourceTree = "<group>"; };
+		093CD1711F9490B4008292A3 /* _3Num.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = _3Num.m; sourceTree = "<group>"; };
+		093CD1731F949FEE008292A3 /* Valid Parentheses.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Valid Parentheses.h"; sourceTree = "<group>"; };
+		093CD1741F949FEE008292A3 /* Valid Parentheses.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "Valid Parentheses.m"; sourceTree = "<group>"; };
+		094D87111F8B4B2C00D00860 /* DynamicProgramming.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DynamicProgramming.h; sourceTree = "<group>"; };
+		094D87121F8B4B2C00D00860 /* DynamicProgramming.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DynamicProgramming.m; sourceTree = "<group>"; };
+		094D87141F8B803D00D00860 /* GreedyALG.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GreedyALG.h; sourceTree = "<group>"; };
+		094D87151F8B803D00D00860 /* GreedyALG.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GreedyALG.m; sourceTree = "<group>"; };
+		095251321F933EC600C6989E /* TreeQuestion.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TreeQuestion.h; sourceTree = "<group>"; };
+		095251331F933EC600C6989E /* TreeQuestion.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TreeQuestion.m; sourceTree = "<group>"; };
+		0957EF3C1F9092D000616B77 /* Find Num in Yang Array.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Find Num in Yang Array.h"; sourceTree = "<group>"; };
+		0957EF3D1F9092D000616B77 /* Find Num in Yang Array.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "Find Num in Yang Array.m"; sourceTree = "<group>"; };
+		0957EF3F1F909D4000616B77 /* Find more than half of the array number.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Find more than half of the array number.h"; sourceTree = "<group>"; };
+		0957EF401F909D4000616B77 /* Find more than half of the array number.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "Find more than half of the array number.m"; sourceTree = "<group>"; };
+		0957EF421F90A45E00616B77 /* Kth Largest Element in an Array.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Kth Largest Element in an Array.h"; sourceTree = "<group>"; };
+		0957EF431F90A45E00616B77 /* Kth Largest Element in an Array.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "Kth Largest Element in an Array.m"; sourceTree = "<group>"; };
+		0957EF451F90AC9300616B77 /* Find specific num count in Orderly array.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Find specific num count in Orderly array.h"; sourceTree = "<group>"; };
+		0957EF461F90AC9300616B77 /* Find specific num count in Orderly array.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "Find specific num count in Orderly array.m"; sourceTree = "<group>"; };
+		0957EF491F90C59F00616B77 /* LinklistQuestion.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LinklistQuestion.h; sourceTree = "<group>"; };
+		0957EF4A1F90C59F00616B77 /* LinklistQuestion.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LinklistQuestion.m; sourceTree = "<group>"; };
 		095FFF501F78DDC3000F6BA0 /* BinaryTree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BinaryTree.h; sourceTree = "<group>"; };
 		095FFF511F78DDC3000F6BA0 /* BinaryTree.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BinaryTree.m; sourceTree = "<group>"; };
 		09848B0D1F7A63A600C8F54E /* HightlightBinaryTree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HightlightBinaryTree.h; sourceTree = "<group>"; };
@@ -55,6 +141,14 @@
 		0988CC541F73532700ED50B4 /* MergeSort.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MergeSort.m; sourceTree = "<group>"; };
 		098F56C31F7F7F6400234CFA /* Graph.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Graph.h; sourceTree = "<group>"; };
 		098F56C41F7F7F6400234CFA /* Graph.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Graph.m; sourceTree = "<group>"; };
+		0994EB371F8F32F100FDD5E5 /* Maximum Subarray.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Maximum Subarray.h"; sourceTree = "<group>"; };
+		0994EB381F8F32F100FDD5E5 /* Maximum Subarray.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "Maximum Subarray.m"; sourceTree = "<group>"; };
+		0994EB3A1F8F447A00FDD5E5 /* Regular Expression Matching.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Regular Expression Matching.h"; sourceTree = "<group>"; };
+		0994EB3B1F8F447A00FDD5E5 /* Regular Expression Matching.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "Regular Expression Matching.m"; sourceTree = "<group>"; };
+		0994EB3E1F8F66C000FDD5E5 /* Two sorted array Median.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Two sorted array Median.h"; sourceTree = "<group>"; };
+		0994EB3F1F8F66C000FDD5E5 /* Two sorted array Median.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "Two sorted array Median.m"; sourceTree = "<group>"; };
+		0994EB411F8F6E6800FDD5E5 /* Find Minimum in Rotated Sorted Array.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Find Minimum in Rotated Sorted Array.h"; sourceTree = "<group>"; };
+		0994EB421F8F6E6800FDD5E5 /* Find Minimum in Rotated Sorted Array.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "Find Minimum in Rotated Sorted Array.m"; sourceTree = "<group>"; };
 		09BB310C1F74E67300634517 /* LinkedList.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LinkedList.h; sourceTree = "<group>"; };
 		09BB310D1F74E67300634517 /* LinkedList.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LinkedList.m; sourceTree = "<group>"; };
 		09BB31101F7500D300634517 /* Practice.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Practice.h; sourceTree = "<group>"; };
@@ -89,6 +183,12 @@
 		09E01E9E1F7657CD005D3594 /* mergeKSortedLists.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = mergeKSortedLists.m; sourceTree = "<group>"; };
 		09E01EA01F766051005D3594 /* isPalindrome.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = isPalindrome.h; sourceTree = "<group>"; };
 		09E01EA11F766051005D3594 /* isPalindrome.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = isPalindrome.m; sourceTree = "<group>"; };
+		09E8193D1F8C96DB005EFBB6 /* File.js */ = {isa = PBXFileReference; explicitFileType = sourcecode.javascript; path = File.js; sourceTree = "<group>"; };
+		09E819401F8CB9DF005EFBB6 /* block.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = block.c; sourceTree = "<group>"; };
+		09E819411F8CB9DF005EFBB6 /* block.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = block.h; sourceTree = "<group>"; };
+		09E819431F8CBA24005EFBB6 /* block.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = block.cpp; sourceTree = "<group>"; };
+		09E819681F8CD351005EFBB6 /* ALG copy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ALG copy.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		09E819691F8CD352005EFBB6 /* ALG copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "ALG copy-Info.plist"; path = "/Users/Jincc/Desktop/Github/ALG/ALG copy-Info.plist"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,9 +213,66 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		09E8195E1F8CD351005EFBB6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0919C9F11F8DBD5400AC4DA3 /* string */ = {
+			isa = PBXGroup;
+			children = (
+				0919C9F21F8DBDF900AC4DA3 /* Longest Palindromic Substring.h */,
+				0919C9F31F8DBDF900AC4DA3 /* Longest Palindromic Substring.m */,
+				0919C9F51F8DEB1F00AC4DA3 /* Longest Substring Without Repeating Characters.h */,
+				0919C9F61F8DEB1F00AC4DA3 /* Longest Substring Without Repeating Characters.m */,
+				0919C9F81F8DFBE900AC4DA3 /* String to Integer.h */,
+				0919C9F91F8DFBE900AC4DA3 /* String to Integer.m */,
+				0919C9FB1F8E168200AC4DA3 /* Reverse Words in a String.h */,
+				0919C9FC1F8E168200AC4DA3 /* Reverse Words in a String.m */,
+				0919C9FE1F8E1C5400AC4DA3 /* Full Permutation.h */,
+				0919C9FF1F8E1C5400AC4DA3 /* Full Permutation.m */,
+				093CD16A1F948D18008292A3 /* Roman To  Int.h */,
+				093CD16B1F948D18008292A3 /* Roman To  Int.m */,
+				093CD1731F949FEE008292A3 /* Valid Parentheses.h */,
+				093CD1741F949FEE008292A3 /* Valid Parentheses.m */,
+			);
+			path = string;
+			sourceTree = "<group>";
+		};
+		094D87101F8B4B0100D00860 /* algorithm */ = {
+			isa = PBXGroup;
+			children = (
+				094D87111F8B4B2C00D00860 /* DynamicProgramming.h */,
+				094D87121F8B4B2C00D00860 /* DynamicProgramming.m */,
+				094D87141F8B803D00D00860 /* GreedyALG.h */,
+				094D87151F8B803D00D00860 /* GreedyALG.m */,
+			);
+			path = algorithm;
+			sourceTree = "<group>";
+		};
+		095251311F93366200C6989E /* tree */ = {
+			isa = PBXGroup;
+			children = (
+				095251321F933EC600C6989E /* TreeQuestion.h */,
+				095251331F933EC600C6989E /* TreeQuestion.m */,
+			);
+			path = tree;
+			sourceTree = "<group>";
+		};
+		0957EF481F90C1D900616B77 /* Link list */ = {
+			isa = PBXGroup;
+			children = (
+				0957EF491F90C59F00616B77 /* LinklistQuestion.h */,
+				0957EF4A1F90C59F00616B77 /* LinklistQuestion.m */,
+			);
+			path = "Link list";
+			sourceTree = "<group>";
+		};
 		095FFF4F1F78DD89000F6BA0 /* 二叉树 */ = {
 			isa = PBXGroup;
 			children = (
@@ -136,6 +293,40 @@
 				098F56C41F7F7F6400234CFA /* Graph.m */,
 			);
 			path = "图";
+			sourceTree = "<group>";
+		};
+		0994EB361F8F32AD00FDD5E5 /* DynamicProgramming */ = {
+			isa = PBXGroup;
+			children = (
+				0994EB371F8F32F100FDD5E5 /* Maximum Subarray.h */,
+				0994EB381F8F32F100FDD5E5 /* Maximum Subarray.m */,
+				0994EB3A1F8F447A00FDD5E5 /* Regular Expression Matching.h */,
+				0994EB3B1F8F447A00FDD5E5 /* Regular Expression Matching.m */,
+			);
+			path = DynamicProgramming;
+			sourceTree = "<group>";
+		};
+		0994EB3D1F8F669700FDD5E5 /* array */ = {
+			isa = PBXGroup;
+			children = (
+				0994EB3E1F8F66C000FDD5E5 /* Two sorted array Median.h */,
+				0994EB3F1F8F66C000FDD5E5 /* Two sorted array Median.m */,
+				0994EB411F8F6E6800FDD5E5 /* Find Minimum in Rotated Sorted Array.h */,
+				0994EB421F8F6E6800FDD5E5 /* Find Minimum in Rotated Sorted Array.m */,
+				0957EF3C1F9092D000616B77 /* Find Num in Yang Array.h */,
+				0957EF3D1F9092D000616B77 /* Find Num in Yang Array.m */,
+				0957EF3F1F909D4000616B77 /* Find more than half of the array number.h */,
+				0957EF401F909D4000616B77 /* Find more than half of the array number.m */,
+				0957EF421F90A45E00616B77 /* Kth Largest Element in an Array.h */,
+				0957EF431F90A45E00616B77 /* Kth Largest Element in an Array.m */,
+				0957EF451F90AC9300616B77 /* Find specific num count in Orderly array.h */,
+				0957EF461F90AC9300616B77 /* Find specific num count in Orderly array.m */,
+				093CD1671F946024008292A3 /* Two num.h */,
+				093CD1681F946024008292A3 /* Two num.m */,
+				093CD1701F9490B4008292A3 /* _3Num.h */,
+				093CD1711F9490B4008292A3 /* _3Num.m */,
+			);
+			path = array;
 			sourceTree = "<group>";
 		};
 		09BB31071F74E24900634517 /* 数据结构 */ = {
@@ -179,6 +370,7 @@
 			children = (
 				09C716891F70C10D00A3A337 /* ALG */,
 				09C716881F70C10D00A3A337 /* Products */,
+				09E819691F8CD352005EFBB6 /* ALG copy-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
@@ -187,6 +379,7 @@
 			children = (
 				09C716871F70C10D00A3A337 /* ALG.app */,
 				09DD4D9E1F7556D60041EFCA /* StackQueue */,
+				09E819681F8CD351005EFBB6 /* ALG copy.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -195,6 +388,14 @@
 			isa = PBXGroup;
 			children = (
 				09C9AD2B1F7CCFE7008E945F /* word.txt */,
+				09E8193D1F8C96DB005EFBB6 /* File.js */,
+				095251311F93366200C6989E /* tree */,
+				0957EF481F90C1D900616B77 /* Link list */,
+				0994EB3D1F8F669700FDD5E5 /* array */,
+				0994EB361F8F32AD00FDD5E5 /* DynamicProgramming */,
+				0919C9F11F8DBD5400AC4DA3 /* string */,
+				09E8193F1F8CB9B7005EFBB6 /* block */,
+				094D87101F8B4B0100D00860 /* algorithm */,
 				09BB31071F74E24900634517 /* 数据结构 */,
 				09C716A11F70C14100A3A337 /* sort */,
 				09C7168D1F70C10D00A3A337 /* AppDelegate.h */,
@@ -244,6 +445,16 @@
 			children = (
 			);
 			path = "栈";
+			sourceTree = "<group>";
+		};
+		09E8193F1F8CB9B7005EFBB6 /* block */ = {
+			isa = PBXGroup;
+			children = (
+				09E819431F8CBA24005EFBB6 /* block.cpp */,
+				09E819401F8CB9DF005EFBB6 /* block.c */,
+				09E819411F8CB9DF005EFBB6 /* block.h */,
+			);
+			path = block;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -299,6 +510,23 @@
 			productReference = 09DD4D9E1F7556D60041EFCA /* StackQueue */;
 			productType = "com.apple.product-type.tool";
 		};
+		09E819451F8CD351005EFBB6 /* ALG copy */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 09E819651F8CD351005EFBB6 /* Build configuration list for PBXNativeTarget "ALG copy" */;
+			buildPhases = (
+				09E819461F8CD351005EFBB6 /* Sources */,
+				09E8195E1F8CD351005EFBB6 /* Frameworks */,
+				09E8195F1F8CD351005EFBB6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "ALG copy";
+			productName = ALG;
+			productReference = 09E819681F8CD351005EFBB6 /* ALG copy.app */;
+			productType = "com.apple.product-type.application";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -321,6 +549,9 @@
 						CreatedOnToolsVersion = 9.0;
 						ProvisioningStyle = Automatic;
 					};
+					09E819451F8CD351005EFBB6 = {
+						DevelopmentTeam = K78T9LD5UA;
+					};
 				};
 			};
 			buildConfigurationList = 09C716821F70C10D00A3A337 /* Build configuration list for PBXProject "ALG" */;
@@ -339,6 +570,7 @@
 				09C716861F70C10D00A3A337 /* ALG */,
 				09BB312D1F75046600634517 /* queue */,
 				09DD4D9D1F7556D60041EFCA /* StackQueue */,
+				09E819451F8CD351005EFBB6 /* ALG copy */,
 			);
 		};
 /* End PBXProject section */
@@ -352,6 +584,19 @@
 				09C716971F70C10D00A3A337 /* Assets.xcassets in Resources */,
 				09C9AD2C1F7CCFE8008E945F /* word.txt in Resources */,
 				09C716951F70C10D00A3A337 /* Main.storyboard in Resources */,
+				09E8193E1F8C96DB005EFBB6 /* File.js in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		09E8195F1F8CD351005EFBB6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				09E819601F8CD351005EFBB6 /* LaunchScreen.storyboard in Resources */,
+				09E819611F8CD351005EFBB6 /* Assets.xcassets in Resources */,
+				09E819621F8CD351005EFBB6 /* word.txt in Resources */,
+				09E819631F8CD351005EFBB6 /* Main.storyboard in Resources */,
+				09E819641F8CD351005EFBB6 /* File.js in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -388,22 +633,45 @@
 				09BB313C1F75167100634517 /* BinarySearch.m in Sources */,
 				09BB31121F7500D300634517 /* Practice.m in Sources */,
 				09848B0F1F7A63A700C8F54E /* HightlightBinaryTree.m in Sources */,
+				0994EB401F8F66C000FDD5E5 /* Two sorted array Median.m in Sources */,
 				09C9AD291F7CCC85008E945F /* Topkk.m in Sources */,
+				093CD16C1F948D18008292A3 /* Roman To  Int.m in Sources */,
 				0988CC551F73532700ED50B4 /* MergeSort.m in Sources */,
 				09263AE01F7B8EEC003C5911 /* Trie.m in Sources */,
+				093CD1751F949FEE008292A3 /* Valid Parentheses.m in Sources */,
 				09C716921F70C10D00A3A337 /* ViewController.m in Sources */,
+				094D87131F8B4B2C00D00860 /* DynamicProgramming.m in Sources */,
+				0919CA001F8E1C5400AC4DA3 /* Full Permutation.m in Sources */,
+				0957EF411F909D4000616B77 /* Find more than half of the array number.m in Sources */,
+				095251341F933EC600C6989E /* TreeQuestion.m in Sources */,
+				0994EB3C1F8F447B00FDD5E5 /* Regular Expression Matching.m in Sources */,
 				09BB310E1F74E67300634517 /* LinkedList.m in Sources */,
+				094D87161F8B803D00D00860 /* GreedyALG.m in Sources */,
+				09E819441F8CBA24005EFBB6 /* block.cpp in Sources */,
 				09DD4D781F7546790041EFCA /* Queue.m in Sources */,
 				09C63E5C1F7272D900EABCAF /* HeapSort.m in Sources */,
 				09C7168F1F70C10D00A3A337 /* AppDelegate.m in Sources */,
 				09E01EA21F766051005D3594 /* isPalindrome.m in Sources */,
 				09E01E9F1F7657CD005D3594 /* mergeKSortedLists.m in Sources */,
 				095FFF521F78DDC3000F6BA0 /* BinaryTree.m in Sources */,
+				0957EF4B1F90C59F00616B77 /* LinklistQuestion.m in Sources */,
+				0919C9F41F8DBDF900AC4DA3 /* Longest Palindromic Substring.m in Sources */,
 				09C7168C1F70C10D00A3A337 /* main.m in Sources */,
 				09E01E9B1F76513F005D3594 /* addTwoNumbers.m in Sources */,
+				0919C9F71F8DEB1F00AC4DA3 /* Longest Substring Without Repeating Characters.m in Sources */,
+				093CD1691F946024008292A3 /* Two num.m in Sources */,
+				0994EB431F8F6E6800FDD5E5 /* Find Minimum in Rotated Sorted Array.m in Sources */,
+				0957EF3E1F9092D000616B77 /* Find Num in Yang Array.m in Sources */,
+				0919C9FD1F8E168200AC4DA3 /* Reverse Words in a String.m in Sources */,
+				0957EF471F90AC9300616B77 /* Find specific num count in Orderly array.m in Sources */,
 				098F56C51F7F7F6400234CFA /* Graph.m in Sources */,
 				09C010CB1F739CE9007BB39C /* ShellSort.m in Sources */,
 				09C716A41F70C16A00A3A337 /* SortHandle.m in Sources */,
+				0919C9FA1F8DFBE900AC4DA3 /* String to Integer.m in Sources */,
+				0957EF441F90A45E00616B77 /* Kth Largest Element in an Array.m in Sources */,
+				09E819421F8CB9DF005EFBB6 /* block.c in Sources */,
+				093CD1721F9490B4008292A3 /* _3Num.m in Sources */,
+				0994EB391F8F32F100FDD5E5 /* Maximum Subarray.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -411,6 +679,36 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		09E819461F8CD351005EFBB6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				09E819471F8CD351005EFBB6 /* BinarySearch.m in Sources */,
+				09E819481F8CD351005EFBB6 /* Practice.m in Sources */,
+				09E819491F8CD351005EFBB6 /* HightlightBinaryTree.m in Sources */,
+				09E8194A1F8CD351005EFBB6 /* Topkk.m in Sources */,
+				09E8194B1F8CD351005EFBB6 /* MergeSort.m in Sources */,
+				09E8194C1F8CD351005EFBB6 /* Trie.m in Sources */,
+				09E8194D1F8CD351005EFBB6 /* ViewController.m in Sources */,
+				09E8194E1F8CD351005EFBB6 /* DynamicProgramming.m in Sources */,
+				09E8194F1F8CD351005EFBB6 /* LinkedList.m in Sources */,
+				09E819501F8CD351005EFBB6 /* GreedyALG.m in Sources */,
+				09E819511F8CD351005EFBB6 /* block.cpp in Sources */,
+				09E819521F8CD351005EFBB6 /* Queue.m in Sources */,
+				09E819531F8CD351005EFBB6 /* HeapSort.m in Sources */,
+				09E819541F8CD351005EFBB6 /* AppDelegate.m in Sources */,
+				09E819551F8CD351005EFBB6 /* isPalindrome.m in Sources */,
+				09E819561F8CD351005EFBB6 /* mergeKSortedLists.m in Sources */,
+				09E819581F8CD351005EFBB6 /* main.m in Sources */,
+				09E819591F8CD351005EFBB6 /* addTwoNumbers.m in Sources */,
+				09E8195A1F8CD351005EFBB6 /* Graph.m in Sources */,
+				09E8195B1F8CD351005EFBB6 /* ShellSort.m in Sources */,
+				09E8196A1F8CD490005EFBB6 /* BinaryTree.m in Sources */,
+				09E8195C1F8CD351005EFBB6 /* SortHandle.m in Sources */,
+				09E8195D1F8CD351005EFBB6 /* block.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -659,6 +957,30 @@
 			};
 			name = Release;
 		};
+		09E819661F8CD351005EFBB6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = K78T9LD5UA;
+				INFOPLIST_FILE = "ALG copy-Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Jincc.ALG;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		09E819671F8CD351005EFBB6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = K78T9LD5UA;
+				INFOPLIST_FILE = "ALG copy-Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Jincc.ALG;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -694,6 +1016,15 @@
 			buildConfigurations = (
 				09DD4DA31F7556D60041EFCA /* Debug */,
 				09DD4DA41F7556D60041EFCA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		09E819651F8CD351005EFBB6 /* Build configuration list for PBXNativeTarget "ALG copy" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				09E819661F8CD351005EFBB6 /* Debug */,
+				09E819671F8CD351005EFBB6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

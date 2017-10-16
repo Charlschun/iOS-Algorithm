@@ -31,6 +31,7 @@
             ct = ct.rightNode;
         }
     }
+
     return ct;
 }
 

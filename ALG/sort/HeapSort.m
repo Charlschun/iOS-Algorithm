@@ -10,7 +10,7 @@
 
 @implementation HeapSort
 
-- (void)heapSort:(NSMutableArray *)array{
++ (void)heapSort:(NSMutableArray *)array{
     //1.构建大跟堆，就是根节点是最大的
     for (NSInteger i = array.count - 1; i >= 0; i --) {
         [self _adjustHeap:array size:array.count index:i];
@@ -24,7 +24,7 @@
     }
 }
 
-- (void)_adjustHeap:(NSMutableArray *)array size:(NSInteger)size index:(NSInteger)i{
++ (void)_adjustHeap:(NSMutableArray *)array size:(NSInteger)size index:(NSInteger)i{
     
     NSNumber* temp = array[i];//先取出当前元素i
     NSInteger left ,right ;
