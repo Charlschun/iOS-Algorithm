@@ -88,4 +88,6 @@
  @return <#return value description#>
  */
 + (BTSNode *)nextPointInOrderTreeWithNode:(BTSNode *)node;
+
++ (BOOL)isValidBST:(BinaryTreeNode *)root;
 @end

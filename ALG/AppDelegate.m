@@ -32,6 +32,17 @@
 #import "TreeQuestion.h"
 #import "Two num.h"
 #import "_3Num.h"
+#import "Valid Parentheses.h"
+#import "Implement strStr().h"
+#import "Generate Parentheses.h"
+#import "Group Anagrams.h"
+#import "Add Binary.h"
+#import "Combinations.h"
+#import "Word Search.h"
+#import "Decode Ways.h"
+#import "isPalindrome.h"
+#import "Valid Palindrome.h"
+#import "Palindrome Partitioning.h"
 @interface AppDelegate ()
 
 @end
@@ -92,7 +103,12 @@
     [self array_alg];
     [self linkedlist_alg];
     [self tree_alg];
+    [self other_alg];
     return YES;
+}
+- (void)other_alg{
+    NSArray *combinations = [Combinations CombinationsWithRange:4 count:2];
+    NSLog(@"排列1..4中的2个数:%@",combinations);
 }
 - (void)tree_alg{
     NSLog(@"根据先序和中序结果，创建二叉树");
@@ -179,6 +195,11 @@
     NSLog(@"两个链表相加");
     node = [LinklistQuestion addTwoNumbers:[ListNode creat:@[@2,@4,@3]] node2:[ListNode creat:@[@5,@6,@4]]];
      [LinklistQuestion printList:node];
+    NSLog(@"合并K个排过序的链表");
+    node = [LinklistQuestion mergeKSortedLists:@[[ListNode creat:@[@1,@2]],
+                                                 [ListNode creat:@[@2,@2]],
+                                                 [ListNode creat:@[@2,@3]]]];
+     [LinklistQuestion printList:node];
     
 }
 
@@ -213,6 +234,11 @@
     NSLog(@"给定一个数组然后返回和为4的indices:%@",twoSum);
     NSArray *threeNum = [_3Num threeNumInArray:@[@-1, @0, @1, @2, @-1, @-4]];
     NSLog(@"三个数相加==0:%@",[threeNum description]);
+    
+    NSArray *group = [Group_Anagrams groupAnagrames:@[@"eat", @"tea", @"tan",@"ate", @"nat", @"bat"]];
+    NSLog(@"group分组:%@",group);
+    
+    NSLog(@"word search:%i",[Word_Search isWordSearch:@"ABCCED"]);
 }
 - (void)dynamic_alg{
     [Maximum_Subarray max_subArray];
@@ -233,6 +259,26 @@
     
     NSLog(@"全排列:%@",[Full_Permutation permutation:@[@"a",@"b",@"c"] from:0 to:2]);
     
+    BOOL isValid = [Valid_Parentheses validParentheses:@"([])[]{}"];
+    NSLog(@"括号是否是有效的:%i",isValid);
+    
+    
+    NSArray *gp = [Generate_Parentheses generateParenthses:3];
+    NSLog(@"生成3对括号的结合:%@",gp);
+    
+    [Implement_strStr__ subRangeInString:@"abcde" subString:@"bc"];
+    
+    NSString *addb = [Add_Binary addBinary:@"11" b2:@"1"];
+    NSLog(@"相加两个二进制数:%@",addb);
+    
+    NSInteger count_ = [Decode_Ways numDecodings:@"121"];
+    NSLog(@"解密方式数量;%zd",count_);
+    
+    BOOL isVp = [Valid_Palindrome isValidPalindrome:@"A man, a plan, a canal: Panama"];
+    NSLog(@"是否是有效的回文:%i",isVp);
+    
+    NSArray *vv = [Palindrome_Partitioning partition:@"aab"];
+    NSLog(@"字符串里的substring也是回文的组合:%@",vv);
 }
 
 - (void)greedy{

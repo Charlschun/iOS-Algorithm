@@ -51,7 +51,7 @@
         }
         //如果当前的数比左右都小,说明找到波谷了
         if (array[mid]< array[mid + 1] && array[mid] < array[mid - 1]) {
-            return [array[mid] integerValue];
+            return MIN([array[mid] integerValue], [array[0] integerValue]);
         }
         //继续二分查找
         if (array[mid] > array[right]){

@@ -193,6 +193,31 @@
     return root;
 }
 
++(ListNode *)mergeKSortedLists:(NSArray<ListNode *> *)lists{
+    ListNode *root = [ListNode new];
+    ListNode *ct = root;
+    NSMutableArray *stack = [lists mutableCopy];
+    while (stack.count) {
+        //获取stack中最新的节点
+       ListNode *minNode =  [self getMinNodeInLists:stack];
+        //创建新的节点
+        ListNode *newNode = [ListNode new];
+        newNode.data = minNode.data;
+        ct.next = newNode;
+        ct = newNode;
+        [stack removeObject:minNode];
+        if (minNode.next) {
+            [stack addObject:minNode.next];
+        }
+    }
+    return root.next;
+}
+
++(ListNode *)getMinNodeInLists:(NSArray<ListNode *> *)lists{
+   return  [lists sortedArrayUsingComparator:^NSComparisonResult(ListNode*  _Nonnull obj1, ListNode*  _Nonnull obj2) {
+        return obj1.data >= obj2.data;
+    }].firstObject;
+}
 
 + (void)printList:(ListNode *)node{
     ListNode *ct = node;

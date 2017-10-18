@@ -192,4 +192,21 @@
         
     }
 }
+
++(BOOL)isValidBST:(BinaryTreeNode *)root {
+    return [self _isValidBST:root min:NSIntegerMin max:NSIntegerMax];
+}
+
++ (BOOL)_isValidBST:(BinaryTreeNode *)root min:(NSInteger)min max:(NSInteger)max{
+    if (root == nil) {
+        return true;
+    }
+    if ([root.value integerValue]>=min && [root.value integerValue] <=max) {
+    }else{
+        return false;
+    }
+    BOOL left = [self _isValidBST:root.leftNode min:min max:[root.value integerValue]] ;
+    BOOL right = [self _isValidBST:root.rightNode min:[root.value integerValue] max:max] ;
+    return left &&right;
+}
 @end

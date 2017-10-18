@@ -96,6 +96,12 @@
  */
 + (ListNode *)addTwoNumbers:(ListNode *)node1 node2:(ListNode *)node2;
 
+/**
+ Merge k sorted linked lists and return it as one sorted list. Analyze and describe its complexity.
 
+ @param lists <#lists description#>
+ @return <#return value description#>
+ */
++ (ListNode *)mergeKSortedLists:(NSArray<ListNode *>*)lists;
 
 @end

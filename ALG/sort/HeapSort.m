@@ -12,7 +12,7 @@
 
 + (void)heapSort:(NSMutableArray *)array{
     //1.构建大跟堆，就是根节点是最大的
-    for (NSInteger i = array.count - 1; i >= 0; i --) {
+    for (NSInteger i = array.count/2 - 1; i >= 0; i --) {
         [self _adjustHeap:array size:array.count index:i];
     }
     //2.然后依次与最末尾交换，沉到数组底部成为最大的
