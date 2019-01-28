@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ced9e72-8bcb-49a2-9d29-73f8b028a0e2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.vscode/c_cpp_properties.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/LeetCode.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/LeetCode.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/LeetCode.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/LeetCode.xcodeproj/xcuserdata/junl.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/LeetCode/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_sum.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectiveC/ALG.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectiveC/ALG.xcodeproj/xcuserdata/Jincc.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectiveC/ALG.xcodeproj/xcuserdata/junl.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/DynamicProgramming/Regular Expression Matching.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/array/Word Search.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG copy-Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG copy-Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG.xcodeproj/xcuserdata/junlongj.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG.xcodeproj/xcuserdata/junlongj.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG.xcodeproj/xcuserdata/junlongj.xcuserdatad/xcschemes/ALG.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG.xcodeproj/xcuserdata/junlongj.xcuserdatad/xcschemes/ALG.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG.xcodeproj/xcuserdata/junlongj.xcuserdatad/xcschemes/StackQueue.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG.xcodeproj/xcuserdata/junlongj.xcuserdatad/xcschemes/StackQueue.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG.xcodeproj/xcuserdata/junlongj.xcuserdatad/xcschemes/queue.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG.xcodeproj/xcuserdata/junlongj.xcuserdatad/xcschemes/queue.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG.xcodeproj/xcuserdata/junlongj.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG.xcodeproj/xcuserdata/junlongj.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/AppDelegate.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/AppDelegate.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/AppDelegate.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/AppDelegate.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/Base.lproj/LaunchScreen.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/DynamicProgramming/Maximum Subarray.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/DynamicProgramming/Maximum Subarray.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/DynamicProgramming/Maximum Subarray.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/DynamicProgramming/Maximum Subarray.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/DynamicProgramming/Regular Expression Matching.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/DynamicProgramming/Regular Expression Matching.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/DynamicProgramming/Regular Expression Matching.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/File.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/File.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/Link list/LinklistQuestion.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/Link list/LinklistQuestion.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/Link list/LinklistQuestion.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/Link list/LinklistQuestion.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/Practice.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/Practice.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/Practice.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/Practice.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/Topkk.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/Topkk.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/Topkk.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/Topkk.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/ViewController.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/ViewController.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/ViewController.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/ViewController.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/algorithm/DynamicProgramming.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/algorithm/DynamicProgramming.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/algorithm/DynamicProgramming.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/algorithm/DynamicProgramming.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/algorithm/GreedyALG.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/algorithm/GreedyALG.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/algorithm/GreedyALG.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/algorithm/GreedyALG.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/array/Find Minimum in Rotated Sorted Array.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/array/Find Minimum in Rotated Sorted Array.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/array/Find Minimum in Rotated Sorted Array.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/array/Find Minimum in Rotated Sorted Array.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/array/Find Num in Yang Array.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/array/Find Num in Yang Array.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/array/Find Num in Yang Array.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/array/Find Num in Yang Array.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/array/Find more than half of the array number.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/array/Find more than half of the array number.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/array/Find more than half of the array number.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/array/Find more than half of the array number.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/array/Find specific num count in Orderly array.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/array/Find specific num count in Orderly array.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/array/Find specific num count in Orderly array.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/array/Find specific num count in Orderly array.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/array/Group Anagrams.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/array/Group Anagrams.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/array/Group Anagrams.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/array/Group Anagrams.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/array/Kth Largest Element in an Array.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/array/Kth Largest Element in an Array.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/array/Kth Largest Element in an Array.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/array/Kth Largest Element in an Array.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/array/Set Matrix Zeroes.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/array/Set Matrix Zeroes.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/array/Set Matrix Zeroes.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/array/Set Matrix Zeroes.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/array/Two num.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/array/Two num.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/array/Two num.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/array/Two num.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/array/Two sorted array Median.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/array/Two sorted array Median.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/array/Two sorted array Median.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/array/Two sorted array Median.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/array/Word Search.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/array/Word Search.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/array/Word Search.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/array/_3Num.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/array/_3Num.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/array/_3Num.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/array/_3Num.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/block/block.c" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/block/block.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/block/block.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/block/block.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/block/block.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/block/block.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/main.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/main.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/other/Add Binary.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/other/Add Binary.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/other/Add Binary.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/other/Add Binary.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/other/Combinations.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/other/Combinations.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/other/Combinations.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/other/Combinations.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/other/Pow(x, n).h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/other/Pow(x, n).h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/other/Pow(x, n).m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/other/Pow(x, n).m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/sort/BinarySearch.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/sort/BinarySearch.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/sort/BinarySearch.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/sort/BinarySearch.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/sort/HeapSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/sort/HeapSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/sort/HeapSort.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/sort/HeapSort.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/sort/MergeSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/sort/MergeSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/sort/MergeSort.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/sort/MergeSort.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/sort/ShellSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/sort/ShellSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/sort/ShellSort.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/sort/ShellSort.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/sort/SortHandle.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/sort/SortHandle.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/sort/SortHandle.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/sort/SortHandle.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/string/Decode Ways.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/string/Decode Ways.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/string/Decode Ways.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/string/Decode Ways.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/string/Full Permutation.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/string/Full Permutation.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/string/Full Permutation.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/string/Full Permutation.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/string/Generate Parentheses.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/string/Generate Parentheses.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/string/Generate Parentheses.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/string/Generate Parentheses.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/string/Implement strStr().h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/string/Implement strStr().h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/string/Implement strStr().m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/string/Implement strStr().m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/string/Longest Palindromic Substring.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/string/Longest Palindromic Substring.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/string/Longest Palindromic Substring.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/string/Longest Palindromic Substring.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/string/Longest Substring Without Repeating Characters.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/string/Longest Substring Without Repeating Characters.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/string/Longest Substring Without Repeating Characters.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/string/Longest Substring Without Repeating Characters.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/string/Palindrome Partitioning.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/string/Palindrome Partitioning.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/string/Palindrome Partitioning.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/string/Palindrome Partitioning.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/string/Reverse Words in a String.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/string/Reverse Words in a String.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/string/Reverse Words in a String.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/string/Reverse Words in a String.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/string/Roman To  Int.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/string/Roman To  Int.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/string/Roman To  Int.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/string/Roman To  Int.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/string/String to Integer.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/string/String to Integer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/string/String to Integer.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/string/String to Integer.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/string/Valid Palindrome.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/string/Valid Palindrome.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/string/Valid Palindrome.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/string/Valid Palindrome.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/string/Valid Parentheses.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/string/Valid Parentheses.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/string/Valid Parentheses.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/string/Valid Parentheses.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/tree/TreeQuestion.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/tree/TreeQuestion.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/tree/TreeQuestion.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/tree/TreeQuestion.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/word.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/word.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/数据结构/二叉树/BinaryTree.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/数据结构/二叉树/BinaryTree.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/数据结构/二叉树/BinaryTree.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/数据结构/二叉树/BinaryTree.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/数据结构/二叉树/HightlightBinaryTree.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/数据结构/二叉树/HightlightBinaryTree.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/数据结构/二叉树/HightlightBinaryTree.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/数据结构/二叉树/HightlightBinaryTree.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/数据结构/二叉树/Trie.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/数据结构/二叉树/Trie.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/数据结构/二叉树/Trie.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/数据结构/二叉树/Trie.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/数据结构/图/Graph.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/数据结构/图/Graph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/数据结构/图/Graph.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/数据结构/图/Graph.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/数据结构/线性表/LinkedList.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/数据结构/线性表/LinkedList.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/数据结构/线性表/LinkedList.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/数据结构/线性表/LinkedList.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/数据结构/线性表/addTwoNumbers.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/数据结构/线性表/addTwoNumbers.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/数据结构/线性表/addTwoNumbers.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/数据结构/线性表/addTwoNumbers.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/数据结构/线性表/isPalindrome.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/数据结构/线性表/isPalindrome.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/数据结构/线性表/isPalindrome.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/数据结构/线性表/isPalindrome.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/数据结构/线性表/mergeKSortedLists.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/数据结构/线性表/mergeKSortedLists.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/数据结构/线性表/mergeKSortedLists.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/数据结构/线性表/mergeKSortedLists.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/数据结构/队列/Queue.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/数据结构/队列/Queue.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ALG/数据结构/队列/Queue.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectiveC/ALG/数据结构/队列/Queue.m" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/C__$two_sum.coverage" NAME="two_sum Coverage Results" MODIFIED="1548040240918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2134806833">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cpp" value="2" />
+          <entry key="py" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C++" value="2" />
+          <entry key="Python" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="48" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="48" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/two_sum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/two_sum.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/two_sum.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="256" />
+    <option name="y" value="91" />
+    <option name="width" value="1409" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="C++" type="b2602c69:ProjectViewProjectNode" />
+              <item name="C++" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="two_sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="C++" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/two_sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.two_sum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ced9e72-8bcb-49a2-9d29-73f8b028a0e2" name="Default Changelist" comment="" />
+      <created>1548039609281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548039609281</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="256" y="91" width="1409" height="877" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24945135" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3299363" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.26496816" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/two_sum.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1199943126/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2324">
+          <caret line="2806" column="6" selection-start-line="2806" selection-start-column="6" selection-end-line="2806" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/two_sum.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/two_sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
