@@ -70,7 +70,9 @@
     //冒泡
 //    [SortHandle bubbleSortWithArray:targetArray];
     //快速
-//    [SortHandle quickSortWithArray:targetArray];
+    targetArray = [@[@5,@2,@4,@6,@4,@2,@9,@0] mutableCopy];
+    [SortHandle quickSortWithArray:targetArray];
+    [targetArray class];
     //插入
 //    [SortHandle insertSortWithArray:targetArray];
     //二分插入
