@@ -1,7 +1,7 @@
 
 ## 排序
 
-[排序算法](./c++/sort/main.cpp)
+[排序算法](./C%2B%2B/sort/main.cpp)
 
 ## 字符串
 
