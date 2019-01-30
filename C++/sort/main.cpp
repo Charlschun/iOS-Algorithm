@@ -138,13 +138,13 @@ namespace Sort {
                 vi.erase(vi.begin() + i);
                 //然后在left位置处插入vi[i]
                 vi.insert(vi.begin() + left, temp);
-//                int k = i;
-//                while (k > left) {
-//                    vi[k] = vi[k-1];
-//                    k--;
-//                }
-//                vi[left] = temp;
-
+                //                int k = i;
+                //                while (k > left) {
+                //                    vi[k] = vi[k-1];
+                //                    k--;
+                //                }
+                //                vi[left] = temp;
+                
                 
             }
         }
