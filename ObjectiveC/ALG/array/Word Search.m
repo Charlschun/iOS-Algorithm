@@ -51,7 +51,10 @@ char map[3][4]  =
         return false;
     }
     index++;
-    return [self isSearch:i j:j+1 word:word index:index] || [self isSearch:i j:j-1 word:word index:index]|| [self isSearch:i-1 j:j word:word index:index]||[self isSearch:i+1 j:j word:word index:index];
+    return [self isSearch:i j:j+1 word:word index:index] ||
+    [self isSearch:i j:j-1 word:word index:index]||
+    [self isSearch:i-1 j:j word:word index:index]||
+    [self isSearch:i+1 j:j word:word index:index];
     
 }
 

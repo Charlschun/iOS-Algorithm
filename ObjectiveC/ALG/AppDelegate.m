@@ -55,6 +55,15 @@
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+    
+#define weakify(object) __weak typeof(object) object##_##weak = object;
+#define strongify(object) __strong typeof(object) object = object##_##weak;
+    
+    weakify(self);
+    {
+        strongify(self);
+        
+    }
     // Override point for customization after application launch.
    NSString *str = [self createPhoneNumber:@[@1, @2, @3, @4, @5, @6, @7, @8, @9, @0] type:1];
     

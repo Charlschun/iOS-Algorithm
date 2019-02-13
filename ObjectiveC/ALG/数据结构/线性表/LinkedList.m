@@ -157,7 +157,7 @@
     pre.next = nil;
     while (ct) {
         next = ct.next;
-        //依次将节点指向前一个节点.
+        //依次将节点指向前一个节点.                                 
         ct.next = pre;
         pre = ct ;
         ct = next;
