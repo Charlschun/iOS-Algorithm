@@ -83,6 +83,15 @@ int removeElement(vector<int>& nums, int val) {
 
 [先序中序后序层级遍历](./C%2B%2B/tree/orderTraversal.cpp)
 
+运用递归来解决树的问题,通常我们可以通过自顶向下或者自底向上的递归来解决树的问题.<br>
+对于某个节点来说，如果我们可以通过某节点的答案，知道它子节点的答案的话，那么可以使用自顶向下递归，反之如此.
+
+[递归解决问题](./C%2B%2B/tree/maximum_depth_of_binary_tree.cpp)<br>
+[101.symmetric_tree](./C%2B%2B/tree/101.symmetric_tree.cpp)<br>
+[112.Path_Sum](./C%2B%2B/tree/112.Path_Sum.cpp)<br>
+[106.Construct_Binary_Tree_from_Inorder_and_Postorder Traversal](./C%2B%2B/tree/106.Construct_Binary_Tree_from_Inorder_and_Postorder Traversal.cpp)<br>
+[105.construct-binary-tree-from-preorder-and-inorder-traversal](./C%2B%2B/tree/105.construct-binary-tree-from-preorder-and-inorder-traversal.cpp)
+
 ## 算法
 
 [算法](./C%2B%2B/algorithm)
