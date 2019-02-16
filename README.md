@@ -89,7 +89,7 @@ int removeElement(vector<int>& nums, int val) {
 [递归解决问题](./C%2B%2B/tree/maximum_depth_of_binary_tree.cpp)<br>
 [101.symmetric_tree](./C%2B%2B/tree/101.symmetric_tree.cpp)<br>
 [112.Path_Sum](./C%2B%2B/tree/112.Path_Sum.cpp)<br>
-[106.Construct_Binary_Tree_from_Inorder_and_Postorder Traversal](./C%2B%2B/tree/106.Construct_Binary_Tree_from_Inorder_and_Postorder Traversal.cpp)<br>
+[106.Construct_Binary_Tree_from_Inorder_and_Postorder Traversal](./C%2B%2B/tree/106.Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.cpp)<br>
 [105.construct-binary-tree-from-preorder-and-inorder-traversal](./C%2B%2B/tree/105.construct-binary-tree-from-preorder-and-inorder-traversal.cpp)
 
 ## 算法
