@@ -98,15 +98,51 @@ int removeElement(vector<int>& nums, int val) {
 
 ### 分治
 
-有点类似“大事化小、小事化了”的思想，经典的归并排序和快速排序都用到这种思想，可以看看 Search a 2D Matrix II 来理解这种思想。
+有点类似“大事化小、小事化了”的思想，经典的归并排序和快速排序都用到这种思想.<br><br>
+[4.Median of Two Sorted Arrays](./C%2B%2B/array/4.Median_of_Two_Sorted_Arrays.cpp)<br>
+[23.Merge k Sorted Lists](./C%2B%2B/list/23.Merge_k_Sorted_Lists.cpp)<br>
+[169.Majority Element](./C%2B%2B/array/169.Majority_Element.cpp)<br>
+
 
 ### 动态规划
 
-有点类似数学中的归纳总结法，找出状态转移方程，然后逐步求解。 309. Best Time to Buy and Sell Stock with Cooldown 是理解动态规划的一个不错的例子
+[算法-动态规划 Dynamic Programming--从菜鸟到老鸟](https://blog.csdn.net/u013309870/article/details/75193592)<br>
+
+动态规划的核心是记住已经解决过的子问题的解，然后通过子问题推导出问题的解.比如说Fibonacci数列
+
+<pre><code>
+int Fibonacci2(int n){
+    int s[n+1];
+    s[0]=1;
+    s[1]=1;
+    int i = 2;
+    while (i<=n) {
+        s[i]=s[i-1]+s[i-2];
+        i++;
+    }
+    return s[n];
+};
+</code></pre>
+
+有点类似数学中的归纳总结法，找出状态转移方程，然后逐步求解。 
+
+[切割钢筋](./C%2B%2B/dp/cut-Rebar.cpp)<br>
+[53.maximum-subarray](./C%2B%2B/dp/53.maximum-subarray.cpp)<br>
+[70.climbing-stairs](./C%2B%2B/dp/70.climbing-stairs.cpp)<br>
+[121.best-time-to-buy-and-sell-stock](./C%2B%2B/dp/121.best-time-to-buy-and-sell-stock.cpp)<br>
+[62.unique-paths](./C%2B%2B/dp/62.unique-paths.cpp)<br>
+[78.subsets](./C%2B%2B/dp/78.subsets.cpp)<br>
+[198.house-robber](./C%2B%2B/dp/198.house-robber.cpp)<br>
+[55.jump-game](./C%2B%2B/dp/55.jump-game.cpp)<br>
+[322.coin-change](./C%2B%2B/dp/322.coin-change.cpp)
+
+上面的题都有一个规律就是:题目中类似都有一个排列组合，然后求出最优解或者共有多少种排列方式。这种题目，如果能求出子问题的解并且能够通过子问题推导出问题的解，那么优先考虑DP.
 
 ### 贪心算法
 
 有时候只顾局部利益，最终也会有最好的全局收益。122. Best Time to Buy and Sell Stock II 看看该如何“贪心”。
+
+[122.best-time-to-buy-and-sell-stock-ii](./C%2B%2B/dp/122.best-time-to-buy-and-sell-stock-ii.cpp)<br>
 
 ### 搜索算法(深度优先，广度优化,二分查找)
 
