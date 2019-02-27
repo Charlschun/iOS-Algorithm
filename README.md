@@ -15,6 +15,7 @@
 [125.Valid Palindrome](./C%2B%2B/string/125.Valid_Palindrome.cpp)<br>
 [151.Reverse Words in a String](./C%2B%2B/string/151.Reverse_Words_in_a_String.cpp)<br>
 [13.Roman to Integer](./C%2B%2B/string/13.Roman_to_Integer.cpp)<br>
+[387.first-unique-character-in-a-string](./C%2B%2B/string/387.first-unique-character-in-a-string.cpp)
 ## 数组
 
 [1.two_sum](./C%2B%2B/array/1.two_sum.cpp)<br>
@@ -33,6 +34,11 @@
 [747.Largest Number At Least Twice of Others](./C%2B%2B/array/747.Largest_Number_At_Least_Twice_of_Others.cpp)<br>
 [498.Diagonal Traverse](./C%2B%2B/array/498.Diagonal_Traverse.cpp)<br>
 [54. Spiral Matrix](./C%2B%2B/array/54.Spiral_Matrix.cpp)<br>
+[136.single-number](./C%2B%2B/array/136.single-number.cpp)<br>
+[350.intersection-of-two-arrays-ii](./C%2B%2B/array/350.intersection-of-two-arrays-ii.cpp)<br>
+[217.contains-duplicate](./C%2B%2B/array/217.contains-duplicate.cpp)<br>
+[66.plus-one](./C%2B%2B/array/66.plus-one.cpp)<br>
+[283.move-zeroes](./C%2B%2B/array/283.move-zeroes.cpp)
 
 ### 双指针技巧
 其基本思想是将第一个元素和末尾进行交换，再向前移动，直到到达中间位置。使用场景比如，翻转字符串等等.<br><br>
@@ -134,7 +140,8 @@ int Fibonacci2(int n){
 [78.subsets](./C%2B%2B/dp/78.subsets.cpp)<br>
 [198.house-robber](./C%2B%2B/dp/198.house-robber.cpp)<br>
 [55.jump-game](./C%2B%2B/dp/55.jump-game.cpp)<br>
-[322.coin-change](./C%2B%2B/dp/322.coin-change.cpp)
+[322.coin-change](./C%2B%2B/dp/322.coin-change.cpp)<br>
+[300.longest-increasing-subsequence](./C%2B%2B/dp/300.longest-increasing-subsequence.cpp)
 
 上面的题都有一个规律就是:题目中类似都有一个排列组合，然后求出最优解或者共有多少种排列方式。这种题目，如果能求出子问题的解并且能够通过子问题推导出问题的解，那么优先考虑DP.
 
@@ -147,6 +154,12 @@ int Fibonacci2(int n){
 ### 搜索算法(深度优先，广度优化,二分查找)
 
 在有限的解空间中找出满足条件的解，深度和广度通常比较费时间，二分搜索每次可以将问题规模缩小一半，所以比较高效。
+
+[33.Search in Rotated Sorted Array](./C%2B%2B/array/33.Search_in_Rotated_Sorted_Array.cpp)<br>
+[148.sort-list](./C%2B%2B/search/148.sort-list.cpp)<br>
+[215.Kth Largest Element in an Array](./C%2B%2B/array/215.Kth_Largest_Element_in_an_Array.cpp)<br>
+[124.binary-tree-maximum-path-sum](./C%2B%2B/search/124.binary-tree-maximum-path-sum.cpp)
+
 
 ### 回溯
 
